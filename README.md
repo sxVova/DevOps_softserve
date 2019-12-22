@@ -42,7 +42,7 @@
 
 ### 9. Only cat    
 9.1. Open visudo  
-9.2. sxvova ALL=(ALL) /bin/cat (add line to file)  
+9.2. sxvova ALL=(ALL) usr/bin/cat (add line to file)  
 
 ### 10. systemd vs init  
 10.1. Init was the founder and, by his methodology, the whole relationship of processes, start, stop at the core level, etc. was built. . systemd was called to be an improved version adding multithreading and complexity, because init broke everything into small subtasks, etc.    
